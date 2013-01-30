@@ -68,14 +68,14 @@ p {
   float: left;
   margin-right: 10px;
   font-size: 1.7em;
-  color: white;
+  color: #999;
   text-transform: uppercase;
   letter-spacing: -1px;
   padding-top: 9px;
   font-weight: bold;
   line-height: 1; 
   &:hover {
-    color: white;
+    color: black;
     text-decoration: none;
   }
 }
@@ -172,3 +172,10 @@ input {
   @extend .control-group;
   @extend .error;
 }
+
+/* How to change background color of navbar:
+.navbar-inner {
+  background-image: none;
+  background-color: black;
+}
+*/
