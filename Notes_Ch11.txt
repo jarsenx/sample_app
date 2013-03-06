@@ -1,0 +1,14 @@
+Q: Why doesn't the size: parameter work in the gravatar_for method?
+A:
+
+Q: In relationships_controller_spec.rb, why are the quotation marks missing in 'describe RelationshipsController do?'
+   (It's the same in relationship_spec.rb!) Review the chapter to see if the author mentions the reason.
+A: 
+
+
+Next steps?:
+~: Spend a week comparing our sample_app code to the authors. Have a DA meeting to discuss findings.
+
+~: Work on the EZDC admin app. Use the weekly DA meetings for code reviews and Q&A sessions.
+
+~: Start working through another book (Learning Rails 3, a Ruby book) and meet weekly to discuss.
